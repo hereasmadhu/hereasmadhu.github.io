@@ -1,0 +1,41 @@
+---
+title: "Madhu Mausam Thapa"
+about:
+  template: jolla
+  image: assets/profile.jpg
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/hereasmadhu
+    - icon: github
+      text: GitHub
+      href: https://github.com/hereasmadhu
+    - icon: envelope
+      text: Email
+      href: mailto:hereasmadhu@gmail.com
+---
+
+## Bridging Civil Engineering & AI
+
+I am a **PhD Candidate in Transportation and Highway Engineering** at the **University of Utah**. My research modernizes public infrastructure management by integrating Computer Vision, Deep Learning, and Geometric Design.
+
+Currently, I am working on optimizing asset management for public transit and active transportation networks.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+<div class="feature-card">
+### 🏗️ Traditional Engineering
+Years of experience designing major infrastructure, including **124 KM of highway alignments**, bridges, and pavement structures.
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+<div class="feature-card">
+### 🤖 Advanced Tech
+Developing **AI pipelines** and **Deep Learning models** to automatically assess street walkability and trail accessibility.
+</div>
+:::
+
+:::

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Madhu Mausam Thapa"
+  description: "Civil Engineering & AI Portfolio"
+  navbar:
+    background: primary
+    search: false
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        menu:
+          - text: "AI Trail Accessibility"
+            href: projects/data-bike.qmd
+          - text: "Walkability Computer Vision"
+            href: projects/complete-streets.qmd
+          - text: "Highway Design"
+            href: projects/mechi-highway.qmd
+      - text: "Resume"
+        href: about.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/hereasmadhu
+      - icon: github
+        href: https://github.com/hereasmadhu
+      - icon: envelope
+        href: mailto:hereasmadhu@gmail.com
+
+format:
+  html:
+    theme: litera # Changed from cosmo for a cleaner, modern font
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    highlight-style: github

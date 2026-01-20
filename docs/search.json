@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "projects/mechi-highway.html",
+    "href": "projects/mechi-highway.html",
+    "title": "Mechi Highway Geometric Design",
+    "section": "",
+    "text": "While working at National Consultant, I served as a Civil Engineer for the detailed design of the Mechi Highway, a major 124 KM four-lane corridor."
+  },
+  {
+    "objectID": "projects/mechi-highway.html#project-scope",
+    "href": "projects/mechi-highway.html#project-scope",
+    "title": "Mechi Highway Geometric Design",
+    "section": "",
+    "text": "While working at National Consultant, I served as a Civil Engineer for the detailed design of the Mechi Highway, a major 124 KM four-lane corridor."
+  },
+  {
+    "objectID": "projects/mechi-highway.html#key-responsibilities",
+    "href": "projects/mechi-highway.html#key-responsibilities",
+    "title": "Mechi Highway Geometric Design",
+    "section": "Key Responsibilities",
+    "text": "Key Responsibilities\n\nGeometric Design: Designed horizontal and vertical alignments using SW Roads and AutoCAD ensuring compliance with DoR Standards.\nPavement Design: Calculated structural requirements for heavy traffic loading.\nHydrology & Hazard: Prepared hazard maps and hydrological studies for drainage design.\n\n\n\n\n\n\n\nNoteKey Deliverables\n\n\n\n\nDetailed Project Report (DPR)\nCost Estimates and Quantity Calculations (BOQ)\nTraffic Count & Axle Load Analysis"
+  },
+  {
+    "objectID": "projects/complete-streets.html",
+    "href": "projects/complete-streets.html",
+    "title": "AI-Driven Walkability Assessment",
+    "section": "",
+    "text": "TipProject Snapshot\n\n\n\nRole: AI Developer & Researcher Client: Wall Consultant Group Outcome: Automated street scoring pipeline"
+  },
+  {
+    "objectID": "projects/complete-streets.html#overview",
+    "href": "projects/complete-streets.html#overview",
+    "title": "AI-Driven Walkability Assessment",
+    "section": "Overview",
+    "text": "Overview\nAssessing the “walkability” of a street usually requires expensive manual audits. In this project, I developed a scalable pipeline to automate this process using street-level imagery."
+  },
+  {
+    "objectID": "projects/complete-streets.html#methodology",
+    "href": "projects/complete-streets.html#methodology",
+    "title": "AI-Driven Walkability Assessment",
+    "section": "Methodology",
+    "text": "Methodology\nWe identified key urban design elements that influence pedestrian comfort and prepared deep learning models to process thousands of images and assign quality scores.\n\nData Collection: Systematically collected street-level imagery across the network.\nModel Architecture: Utilized Computer Vision models to classify design elements (e.g., enclosure, greenery).\nScoring: Developed a methodology to aggregate detections into a “Streetscape Design Quality” rating."
+  },
+  {
+    "objectID": "projects/complete-streets.html#tech-stack",
+    "href": "projects/complete-streets.html#tech-stack",
+    "title": "AI-Driven Walkability Assessment",
+    "section": "Tech Stack",
+    "text": "Tech Stack\n\nPython (PyTorch/TensorFlow)\nArcGIS for spatial visualization\nGoogle Street View API"
+  },
+  {
+    "objectID": "projects/complete-streets.html#impact",
+    "href": "projects/complete-streets.html#impact",
+    "title": "AI-Driven Walkability Assessment",
+    "section": "Impact",
+    "text": "Impact\nThis tool allows planners to objectively visualize street quality and prioritize interventions without the need for exhaustive manual fieldwork."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Education\nPhD, Transportation Engineering University of Utah Expected Dec 2028 | GPA: 3.97 Focus: Computer Vision, Deep Learning, Traffic Operations.\nBE, Civil Engineering Tribhuvan University (IOE) 2015 - 2019 Awards: Full Tuition Scholarship.\n\n\nTechnical Skills\nEngineering AutoCAD Civil 3D SW Road VISSIM\nData Science & AI Python PyTorch YOLO Computer Vision\nGeospatial ArcGIS Spatial Analysis\n\n\n\nExperience\n\nTransportation Research Intern\nWall Consultant Group | Salt Lake City, UT Feb 2025 - May 2025\n\nAI Implementation: Developed a deep learning methodology to rate streetscape design quality from street-level imagery.\nData Processing: Processed large-scale image datasets to assess urban design elements.\nVisualization: Created visualizations and models for final project deliverables to assist planning decisions.\n\n\n\n\nCivil Engineer\nNational Consultant | Kathmandu, Nepal Nov 2020 - Dec 2023\n\nHighway Design: Led the geometric design of the Mechi Highway, a 124 KM four-lane corridor.\nFeasibility Studies: Conducted pre-feasibility studies for various road alignments and bridges.\nCost Estimation: Performed rate analysis, cost estimation, and prepared BOQs and bid documents."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Madhu Mausam Thapa",
+    "section": "",
+    "text": "I am a PhD Candidate in Transportation and Highway Engineering at the University of Utah. My research modernizes public infrastructure management by integrating Computer Vision, Deep Learning, and Geometric Design.\nCurrently, I am working on optimizing asset management for public transit and active transportation networks.\n\n\n\n\nYears of experience designing major infrastructure, including 124 KM of highway alignments, bridges, and pavement structures.\n\n\n\n\n\nDeveloping AI pipelines and Deep Learning models to automatically assess street walkability and trail accessibility."
+  },
+  {
+    "objectID": "index.html#bridging-civil-engineering-ai",
+    "href": "index.html#bridging-civil-engineering-ai",
+    "title": "Madhu Mausam Thapa",
+    "section": "",
+    "text": "I am a PhD Candidate in Transportation and Highway Engineering at the University of Utah. My research modernizes public infrastructure management by integrating Computer Vision, Deep Learning, and Geometric Design.\nCurrently, I am working on optimizing asset management for public transit and active transportation networks.\n\n\n\n\nYears of experience designing major infrastructure, including 124 KM of highway alignments, bridges, and pavement structures.\n\n\n\n\n\nDeveloping AI pipelines and Deep Learning models to automatically assess street walkability and trail accessibility."
+  },
+  {
+    "objectID": "projects/data-bike.html",
+    "href": "projects/data-bike.html",
+    "title": "The Data Bike: Trail Accessibility",
+    "section": "",
+    "text": "As a Graduate Research Assistant at the University of Utah, I helped develop a low-cost “Data Bike” to assess trail conditions for users with limited mobility. The system produces actionable recommendations for maintenance, ensuring trails meet accessibility standards for all users."
+  },
+  {
+    "objectID": "projects/data-bike.html#overview",
+    "href": "projects/data-bike.html#overview",
+    "title": "The Data Bike: Trail Accessibility",
+    "section": "",
+    "text": "As a Graduate Research Assistant at the University of Utah, I helped develop a low-cost “Data Bike” to assess trail conditions for users with limited mobility. The system produces actionable recommendations for maintenance, ensuring trails meet accessibility standards for all users."
+  },
+  {
+    "objectID": "projects/data-bike.html#the-system",
+    "href": "projects/data-bike.html#the-system",
+    "title": "The Data Bike: Trail Accessibility",
+    "section": "The System",
+    "text": "The System\nThe bike is instrumented with GPS, cameras, and accelerometers. My specific role involved:\n\nData Processing: Creating workflows to fuse sensor data with video feeds.\nComputer Vision: Applying AI techniques to detect surface roughness, clear zones, and gradient changes.\n\n\n\n\n\n\n\nNoteOutcomes\n\n\n\nThe system successfully identifies hazards and roughness, providing an automated method for ensuring trails remain accessible to users with disabilities."
+  }
+]

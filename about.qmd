@@ -1,0 +1,67 @@
+---
+title: "Resume"
+format:
+  html:
+    toc: false
+---
+
+<div class="grid">
+
+<div class="g-col-12 g-col-md-4">
+
+### Education
+
+**PhD, Transportation Engineering**
+*University of Utah*
+*Expected Dec 2028 | GPA: 3.97*
+Focus: Computer Vision, Deep Learning, Traffic Operations.
+
+**BE, Civil Engineering**
+*Tribhuvan University (IOE)*
+*2015 - 2019*
+Awards: Full Tuition Scholarship.
+
+### Technical Skills
+
+**Engineering**
+[AutoCAD]{.skill-tag}
+[Civil 3D]{.skill-tag}
+[SW Road]{.skill-tag}
+[VISSIM]{.skill-tag}
+
+**Data Science & AI**
+[Python]{.skill-tag}
+[PyTorch]{.skill-tag}
+[YOLO]{.skill-tag}
+[Computer Vision]{.skill-tag}
+
+**Geospatial**
+[ArcGIS]{.skill-tag}
+[Spatial Analysis]{.skill-tag}
+
+</div>
+
+<div class="g-col-12 g-col-md-8">
+
+### Experience
+
+#### **Transportation Research Intern**
+**Wall Consultant Group** | *Salt Lake City, UT*
+*Feb 2025 - May 2025*
+
+* **AI Implementation:** Developed a deep learning methodology to rate streetscape design quality from street-level imagery.
+* **Data Processing:** Processed large-scale image datasets to assess urban design elements.
+* **Visualization:** Created visualizations and models for final project deliverables to assist planning decisions.
+
+<hr>
+
+#### **Civil Engineer**
+**National Consultant** | *Kathmandu, Nepal*
+*Nov 2020 - Dec 2023*
+
+* **Highway Design:** Led the geometric design of the **Mechi Highway**, a 124 KM four-lane corridor.
+* **Feasibility Studies:** Conducted pre-feasibility studies for various road alignments and bridges.
+* **Cost Estimation:** Performed rate analysis, cost estimation, and prepared BOQs and bid documents.
+
+</div>
+</div>

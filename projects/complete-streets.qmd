@@ -1,0 +1,39 @@
+---
+title: "AI-Driven Walkability Assessment"
+subtitle: "Using Deep Learning to Quantify Urban Streetscape Quality"
+categories: [Deep Learning, Python, Urban Planning]
+image: ../assets/walkability.jpg
+---
+
+::: {.callout-tip icon=false}
+## Project Snapshot
+**Role:** AI Developer & Researcher
+**Client:** Wall Consultant Group
+**Outcome:** Automated street scoring pipeline
+:::
+
+## Overview
+
+Assessing the "walkability" of a street usually requires expensive manual audits. In this project, I developed a scalable pipeline to automate this process using street-level imagery.
+
+## Methodology
+
+We identified key urban design elements that influence pedestrian comfort and prepared deep learning models to process thousands of images and assign quality scores.
+
+1.  **Data Collection:** Systematically collected street-level imagery across the network.
+2.  **Model Architecture:** Utilized Computer Vision models to classify design elements (e.g., enclosure, greenery).
+3.  **Scoring:** Developed a methodology to aggregate detections into a "Streetscape Design Quality" rating.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+## Tech Stack
+* **Python** (PyTorch/TensorFlow)
+* **ArcGIS** for spatial visualization
+* **Google Street View API**
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Impact
+This tool allows planners to objectively visualize street quality and prioritize interventions without the need for exhaustive manual fieldwork.
+:::
+:::

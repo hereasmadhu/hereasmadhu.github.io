@@ -1,0 +1,22 @@
+---
+title: "The Data Bike: Trail Accessibility"
+subtitle: "Multimodal Sensing for Active Transportation Monitoring"
+categories: [IoT, Sensors, Computer Vision]
+image: ../assets/bike.jpg
+---
+
+## Overview
+
+As a **Graduate Research Assistant at the University of Utah**, I helped develop a low-cost "Data Bike" to assess trail conditions for users with limited mobility. The system produces actionable recommendations for maintenance, ensuring trails meet accessibility standards for all users.
+
+## The System
+
+The bike is instrumented with GPS, cameras, and accelerometers. My specific role involved:
+
+* **Data Processing:** Creating workflows to fuse sensor data with video feeds.
+* **Computer Vision:** Applying AI techniques to detect surface roughness, clear zones, and gradient changes.
+
+::: {.callout-note}
+## Outcomes
+The system successfully identifies hazards and roughness, providing an automated method for ensuring trails remain accessible to users with disabilities.
+:::

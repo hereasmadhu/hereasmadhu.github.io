@@ -1,0 +1,23 @@
+---
+title: "Mechi Highway Geometric Design"
+subtitle: "Detailed Design of 124 KM Four-Lane Infrastructure"
+categories: [Civil Engineering, AutoCAD, Highway Design]
+image: ../assets/highway.jpg
+---
+
+## Project Scope
+
+While working at **National Consultant**, I served as a Civil Engineer for the detailed design of the **Mechi Highway**, a major 124 KM four-lane corridor.
+
+## Key Responsibilities
+
+* **Geometric Design:** Designed horizontal and vertical alignments using **SW Roads** and **AutoCAD** ensuring compliance with DoR Standards.
+* **Pavement Design:** Calculated structural requirements for heavy traffic loading.
+* **Hydrology & Hazard:** Prepared hazard maps and hydrological studies for drainage design.
+
+::: {.callout-note icon=false}
+## Key Deliverables
+* Detailed Project Report (DPR)
+* Cost Estimates and Quantity Calculations (BOQ)
+* Traffic Count & Axle Load Analysis
+:::
